@@ -1,0 +1,34 @@
+hey I here to make a working website for my milk home delivery service that includes a customer subscription portal and real-time delivery tracking. that has 5 products 1.fresh milk(milk has two categories
+reguler milk Regular milk :-
+1ltr = 65
+500 ml 33
+250 ml 20 ,
+2 premium milk
+Premium milk:-
+1ltr 70
+500 ml 35
+250ml 23), 2. dahi(curd 100 ml = 15 rupees , 250ml = 27, 500ml = 45, 1kg = 90),3. paneer (100 gm = 30rs ,250gm = 65rs, 500 gm = 130 , 1kg = 260 rs),4. chhach (Chhach :-
+Plain chhach 25rs ltr
+Masala chhach 35rs ltr
+Family pack plain chhach 2 ltr 50rs
+Family pack Masala chhach 2 ltr 65 rs), 5. Desi ghee (500 gm = 410 rs, 1kg = 799 rs ,1.5kg 1149rs,2kg = 1499 rs). a short notice board that New fresh milk arrives every morning at 6:00 AM. Order before 10 PM for next day delivery. Enjoy our best prices every day! .
+our agency delivers orders under 10-12 kilometer radius in haathras city continue with glass morphism UI and white and green color theme for reference I have given you a Image I want a header just like the image has "NAMASTE BHARAT" exact background and just below is I want A navbaar that has the following section 1 "Address" section so that user can change or update their address anytime from anywhere according to place 2."My orders" that tracks the users order like what he have ordered what is the total price any etc detail of order like blinkit,flipcart has, my profile also should have a logout option that works correctly main part user data signup or login data will store on their own local browser, 3 "My profile" on the top right corner there should be a option of my profile where user can attract with his profile while loged in with email or google ,4 "bulk order" for bulk order or extra order on anytime ,5 "subscription" (where user can chose plan of any one or multiple selected products subscription for 5 day,6 day,7 day, 1 month(30 days) subscription section should be saparated and is user choses a plan the subscribed user animated tag will apeare in profile till end of subscription if user purchases selects a subscription or plan the notification will automatically should be send to email of website profile will automatically track the subscription ).
+coming to layout when user enters in website there should be a namaste bharat at top after just below it a glassmorphis trasparent navbaar with above options on main content area there are 5 categories as above on clicking on it, it devided by quantity with price and for milk it has two categories every item has two option direct order and add+(add to cart) by clicking on order a form will open to fill detailes like address, phone ,name , and etc to connect if user is signed up already or login so that dont need to fill form just order by existing details order notification will go to the email by using formsfree (what i need to do it tell me ald feel free to ask any thing almost anythink for completion) i have provided item photos use only these and store these in website forlder.
+coming to personal website details : website name = "Uni Milk", email : uni.milkofficial2426@gmail.com, phone : 9837854627, whatsapp : 9837854627, shop address "kanchan nagar hathras" .
+one more thing user can also order via whatsapp add a option of it also , order on call feature add layout and manage layout according to you and make footer profetional have all required section like privacy&policy ,terms, about us contect&support
+and in a developer contect section if user clicks on it, it opens phone 7983048450 direct call if clicks ,7983048450 message in about us write = "Uni milk is India's most loved online milk and it's dairy products shopping platform. Our app is changing the way customers approach their daily essentials.
+You can now shop online for fresh milk, curd(dahee), paneer, chhach and desi ghee. Imagine if you could get anything delivered to you in minutes. Milk for your morning tea and coffee. The perfect ghee and other products for your health and everything on time when you need them.
+Our superfast delivery service aims to help consumers in India, save time and fulfil their needs in a way that is frictionless. We will make healthy high quality and life improving products available to everyone instantly. So that people can have time for the things that matter to them.
+Uni milk delivers trust and guarantee of purity and freshness, you are valuable for us and WE BELIEVE IN YOUR HEALTH , OUR OUR CONCERN." and in terms = "Product Quality – All milk and dairy products are prepared and packed under hygienic conditions and are quality checked before delivery.
+Fresh Products – Milk and dairy products are perishable. Customers should refrigerate products immediately after delivery and consume them before the expiry date.
+Orders & Delivery – Orders are confirmed only after acceptance by Uni Milk. Delivery times may vary due to weather, traffic, or other unavoidable circumstances.
+Payment Policy – Payment must be made as per the agreed method (Cash, UPI, or Bank Transfer). Delayed payments may result in suspension of future deliveries.
+Cancellation Policy – Order cancellations must be made before the daily cut-off time. Orders cancelled after dispatch may not be eligible for a refund.
+Return & Refund – Returns are accepted only if the product is damaged, leaking, spoiled, or delivered incorrectly. Complaints should be reported within 24 hours with photos, if possible.
+Pricing – Prices are subject to change without prior notice due to market conditions, raw milk costs, or government regulations.
+Customer Responsibility – Customers must provide the correct delivery address and contact details. Uni Milk is not responsible for delays caused by incorrect information.
+Food Safety – Products should be stored as instructed. Uni Milk is not responsible for spoilage caused by improper storage after delivery.
+Legal Jurisdiction – These terms are governed by the laws of India. Any disputes will be subject to the jurisdiction of the local courts where Uni Milk operates". add a insta link : uni.milk_official , and a logo which I have provided .
+no lets come to the layout make layout very easy to understand very easy process to order , improved graphics ,optimized code lagfree access if website is loading then show message 100% fresh product .
+add a "report a issue" section in footer where user can report a issue whatsapp after typing it on website and before footer add a review section which stores letest only three reviews each one review will over write oldest review with rating , in tha section add a option "add review" where user can give their own review and stored in review section.
+IF I AM MISSED SOMETHING ADD IT IN WEBSITE AS ANOTHER WEBSITES LIKE FLIPCART,BLINKIT,AMAZON
